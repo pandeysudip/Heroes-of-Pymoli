@@ -1,6 +1,6 @@
 # pandas-challenge
 ## Background
-Analyzed the data for most recent fantasy game Heroes of Pymoli and district-wide standardized test results using pandas.
+Analyzed the data for 1) most recent fantasy game Heroes of Pymoli and 2) district-wide standardized test results using pandas.
 
 
 ##  1: Heroes of Pymoli
