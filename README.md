@@ -1,16 +1,13 @@
 # pandas-challenge
 ## Background
-
-The data dive continues!
-
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
+Analyzed the data for most recent fantasy game Heroes of Pymoli and district-wide standardized test results using pandas.
 
 
 ##  1: Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
-Analyzed the data for their most recent fantasy game Heroes of Pymoli to generate a report that breaks down the game's purchasing data into meaningful insights.
+Analyzed the data for most recent fantasy game Heroes of Pymoli to generate a report that breaks down the game's purchasing data into meaningful insights.
 
 Following steps were followed:
 
