@@ -1,4 +1,4 @@
-# pandas-challenge
+# Heroes of Pymoli and PyCitySchools
 ## Background
 Analyzed the data for 1) most recent fantasy game Heroes of Pymoli and 2) district-wide standardized test results using pandas.
 
